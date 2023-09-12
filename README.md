@@ -6,7 +6,7 @@ I created sound data via famistudio
 
 Famistudio exported to NES rom 
 
-I disassembled the rom and the result is ASM code 
+I disassembled the rom file  
 
 You can assmeble the code using ASM6 
 
